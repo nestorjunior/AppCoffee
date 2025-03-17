@@ -1,11 +1,12 @@
 # App Coffee
 
 ## Descrição
-Este é o **App Coffee**, um aplicativo desenvolvido com o **Microsoft Power Apps**. Ele foi criado para proporcionar uma experiência intuitiva e eficiente na gestão de pedidos e produtos de uma cafeteria.
+Este é o **App Coffee**, um aplicativo desenvolvido com o **Microsoft Power Apps**. 
+Ele efetua a busca de informações de cafeteiras em um arquivo planilha Excel.
 
 ## Tecnologias Utilizadas
 - **Microsoft Power Apps** (Canvas App)
-- **SharePoint** 
+- **Excel** 
 
 ## Capturas de Tela
 ### Versão Desktop
